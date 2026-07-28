@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "rewrites": [
+    { "src": "/", "dest": "/dashboard.html" },
+    { "src": "/index.html", "dest": "/dashboard.html" }
+  ]
+}
